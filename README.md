@@ -1,6 +1,7 @@
 # Machine-Learning-Mini-Project-3-
 
 Project objectives
+
 Business Objective: Reduce monthly customer churn by identifying high risk customers well in advance
 
 Hypothesis
